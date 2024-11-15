@@ -1,6 +1,3 @@
-<p align="center">
-<img src="FT_PRINTF.svg" align="center"/>
-</p>
 
 <P align="center"> 
    This project is about programming a function that memics the functionality of the stadard function printf defined in the library <i>stdio.h</i>
